@@ -1,0 +1,363 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+    
+}
+
+header {
+    width: 100%;
+    height: 7vh;
+    background-color: transparent;
+}
+
+.menu {
+    text-transform: uppercase;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu #logo {
+    float: left;
+    height: 40;
+    width: 250;
+}
+
+.titulo {
+    font-size: 1.8 rem;
+    letter-spacing: 0.4 rem;
+    color: #B52b19 ;
+}
+
+.menu .itens_menu {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    text-decoration: none;
+    color: #B52b19;
+    padding: 1.5rem;
+}
+
+.menu .itens_menu a {
+    text-decoration: none;
+    color: #B52b19;
+    padding: 1.5rem;
+}
+
+.menu #search {
+    background-color: white;
+    border: solid 1px #B52b19;
+    border-radius: 20px;  
+    width: 216px;
+    height: 30px;
+    left: 865px;
+    top: 33px;  
+}
+
+.menu #search img {
+    float: right;
+}
+
+.titulo-pag {
+    font-family: "Orelega One", serif;
+    color: #B52b19;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.titulo-pag hr {
+    border: 2px solid #B52b19;
+}
+
+.restaurantes {
+    display: flex;
+    border-top: none;
+    padding-top: none;
+}
+
+.restaurante {
+    flex: 1;
+    margin: 5px;
+    text-align: center;
+    background-color: #fefefe;
+    height: 300px;
+    width: 200px;
+}
+
+.restaurante img{
+    max-width: 95%;
+    margin-top: 10px;
+}
+
+.restaurante .texto{
+    font-size: 20px;
+    font-style: italic;
+    color: #B52b19;
+    font-weight: 200;
+}
+
+
+.campo-pesquisa {
+    background-color: #B52b19;
+    width: 900px;
+    height: 400px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.campo-pesquisa #search {
+    background-color: white;
+    border: solid 1px #B52b19;
+    border-radius: 20px;  
+    width: 800px;
+    height: 30px;  
+    position: absolute;
+    left: 150px;
+    top: 115px;
+}
+
+.campo-pesquisa #search img {
+    float: right;
+}
+
+.campo-pesquisa #search input {
+    height: 30px;
+    width: 800px;
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    position: absolute ;
+    left: 0px;
+    top: 0px;
+}
+
+.campo-pesquisa h1{
+    color: #ffffff;
+    position: absolute;
+    width: 755px;
+    height: 31px;
+    left: calc(50% - 755px/2 - 0.5px);
+    top: 150px;
+    font-family: "Orelega One", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: center;
+
+}
+
+.forms {
+    background-color: #ffffff;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    top: 50px;
+    left: 400px ;
+    border-radius: 20px;
+}
+
+.forms p {
+    font-family: "Orelega One", serif;
+    color: #B52b19;
+    font-size: 40px;
+    position: absolute;
+    width: 300px;
+    top: 60px;
+    text-align: center;
+}
+
+.forms form {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+label {
+    margin-bottom: 5px;
+    color:  #B52b19;
+}
+
+.form-group input {
+    width: 245px;
+    height: 25px;
+    border-radius: 10px;
+    border: 2px solid #B52b19;
+    padding: 8px 10px;
+
+}
+
+button {
+    position: absolute;
+    left: 70px;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    background-color: #B52b19;
+    color: #ffffff
+}
+
+button:hover {
+    background-color: black;
+}
+
+h6 {
+    position: absolute;
+    top: 320px;
+    left: 85px;
+    color: black;
+}
+
+h6 a {
+    color: #B52b19;
+}
+
+.background-image {
+    margin: 0;
+    padding: 0;
+    background-image: url('imagens/imagem_login.jpg');
+    background-size: cover;
+}
+:root {
+    --altura_container : 400px;
+    --largura_container : 300px;
+}
+
+.container {
+    height: var(--altura_container);
+    width: var(--largura_container);
+    background-color: #B52b19;
+    border-radius: 10px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    text-align: center;
+}
+
+#perfil {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.itens_container{
+    width: 200px;
+    height: 30px;
+    background-color: #fefefe;
+    border-radius: 10px;
+    margin-left: calc((var(--largura_container) - 200px)/2);
+    margin-top: 15px;
+    color: #B52b19;
+}
+
+.itens_container a{
+    color: #B52b19;
+    text-decoration: none;   
+}
+
+.itens_container img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 65px;
+    margin-top: 2px;
+}
+
+.cupons-container {
+    display: flex;
+    justify-content: flex-start; 
+    gap: 20px; 
+    padding: 10px;
+}
+
+.cupom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 90; 
+    max-width: 300px; 
+}
+
+.img-container {
+    padding: 60px; 
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.cupom img {
+    max-width: 100%;
+    width: 250px; 
+    height: auto;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3); 
+}
+
+.texto-dentro-moldura {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 1.2em;
+        color: #333;
+        background-color:  rgb(175, 229, 194);
+        padding: 2px;
+        border-radius: 10px;
+        
+    }
+
+.favoritos-container {
+        display: flex;
+        justify-content: center; 
+        gap: 20px; 
+        padding: 20px;
+        flex-wrap: wrap;
+
+    }
+    
+.favoritos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 250px;
+        margin: 5px;
+}
+    
+.img-container {
+        width: 500px;
+        height: 300px; 
+        padding: 20px; 
+        border-radius: 50px;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2); 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+}
+    
+.img-container img { 
+        max-width: 100%;
+        max-height: 100%;
+        border-radius: 20px; 
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3); 
+        object-fit: cover;
+        
+}
+    

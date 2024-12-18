@@ -1,0 +1,1692 @@
+/* Filtros - teste sarah */
+
+position: relative;
+width: 1280px;
+height: 720px;
+
+background: #FEF4EE;
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 933px;
+height: 428px;
+left: calc(50% - 933px/2 - 0.5px);
+top: calc(50% - 428px/2 - 11px);
+
+background: #B52B19;
+border: 1px solid #B52B19;
+border-radius: 20px;
+
+
+/* Outros */
+
+position: absolute;
+width: 152px;
+height: 154px;
+left: 577px;
+top: 255px;
+
+
+
+/* Preços */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 577px;
+top: 289px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130.14px;
+height: 24px;
+left: 598.86px;
+top: 289px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Preços */
+
+position: absolute;
+width: 106.11px;
+height: 13px;
+left: 611.04px;
+top: 292px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 41 */
+
+position: absolute;
+width: 14.83px;
+height: 15px;
+left: 577px;
+top: 293px;
+
+background: url(image.png), url(image.png);
+
+
+/* Surpreenda-me */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 577px;
+top: 321px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 599px;
+top: 321px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Surpreenda-me */
+
+position: absolute;
+width: 111px;
+height: 13px;
+left: 607px;
+top: 324px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 42 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 577px;
+top: 325px;
+
+background: url(image.png), url(image.png);
+
+
+/* Pet Friendly */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 577px;
+top: 353px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 599px;
+top: 353px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Pet Friendly */
+
+position: absolute;
+width: 89px;
+height: 13px;
+left: 618px;
+top: 357px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 32 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 577px;
+top: 356px;
+
+background: url(image.png), url(image.png);
+
+
+/* Faixa Etária */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 577px;
+top: 385px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 599px;
+top: 385px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Faixa etária */
+
+position: absolute;
+width: 80px;
+height: 16px;
+left: 624px;
+top: 388px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 43 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 577px;
+top: 389px;
+
+background: url(image.png), url(image.png);
+
+
+/* Outros */
+
+position: absolute;
+width: 66px;
+height: 22px;
+left: calc(50% - 66px/2 + 24px);
+top: 255px;
+
+font-family: 'Orelega One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FEF4EE;
+
+
+
+/* proximidade */
+
+position: absolute;
+width: 152px;
+height: 218px;
+left: 922px;
+top: 255px;
+
+
+
+/* 1km */
+
+position: absolute;
+width: 151.84px;
+height: 24px;
+left: 922px;
+top: 289px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 943.84px;
+top: 289px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Até 1km */
+
+position: absolute;
+width: 106px;
+height: 13px;
+left: 956px;
+top: 292px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 41 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 922px;
+top: 293px;
+
+background: url(image.png), url(image.png);
+
+
+/* 1-3 */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 922px;
+top: 321px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 944px;
+top: 321px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* 1km - 3km */
+
+position: absolute;
+width: 111px;
+height: 13px;
+left: 952px;
+top: 324px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 42 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 922px;
+top: 325px;
+
+background: url(image.png), url(image.png);
+
+
+/* 3km-5km */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 922px;
+top: 353px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 944px;
+top: 353px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* 3km - 5km */
+
+position: absolute;
+width: 89px;
+height: 13px;
+left: 963px;
+top: 357px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 32 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 922px;
+top: 356px;
+
+background: url(image.png), url(image.png);
+
+
+/* 5km - 10 km] */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 922px;
+top: 385px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 944px;
+top: 385px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* 5km - 10km */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 971px;
+top: 388px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 43 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 922px;
+top: 389px;
+
+background: url(image.png), url(image.png);
+
+
+/*  10km-50km */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 922px;
+top: 417px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 944px;
+top: 417px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* 10km - 50km */
+
+position: absolute;
+width: 85px;
+height: 16px;
+left: 967px;
+top: 420px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 43 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 922px;
+top: 421px;
+
+background: url(image.png), url(image.png);
+
+
+/* 50km + */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 922px;
+top: 449px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 944px;
+top: 449px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* 50km + */
+
+position: absolute;
+width: 49px;
+height: 16px;
+left: 985px;
+top: 452px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 43 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 922px;
+top: 453px;
+
+background: url(image.png), url(image.png);
+
+
+/* Proximidade */
+
+position: absolute;
+width: 116px;
+height: 22px;
+left: calc(50% - 116px/2 + 369px);
+top: 255px;
+
+font-family: 'Orelega One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FEF4EE;
+
+
+
+/* Outros */
+
+position: absolute;
+width: 152px;
+height: 186px;
+left: 743px;
+top: 255px;
+
+
+
+/* ate 50 */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 743px;
+top: 289px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 765px;
+top: 289px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Até R$50,00 */
+
+position: absolute;
+width: 106px;
+height: 13px;
+left: 777px;
+top: 295px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 41 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 743px;
+top: 293px;
+
+background: url(image.png), url(image.png);
+
+
+/* 50-100 */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 743px;
+top: 321px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 765px;
+top: 321px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* R$50 - R$100 */
+
+position: absolute;
+width: 90px;
+height: 13px;
+left: calc(50% - 90px/2 + 190px);
+top: calc(50% - 13px/2 - 27.5px);
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 42 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 743px;
+top: 324px;
+
+background: url(image.png), url(image.png);
+
+
+/* 100-200 */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 743px;
+top: 353px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 765px;
+top: 353px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* R$100 - R$200 */
+
+position: absolute;
+width: 99px;
+height: 13px;
+left: 784px;
+top: 359px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 32 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 743px;
+top: 356px;
+
+background: url(image.png), url(image.png);
+
+
+/* 200-300 */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 743px;
+top: 385px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 765px;
+top: 385px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* R$200 - R$300 */
+
+position: absolute;
+width: 97px;
+height: 16px;
+left: 782px;
+top: 388px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 43 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 743px;
+top: 389px;
+
+background: url(image.png), url(image.png);
+
+
+/* acima 300 */
+
+position: absolute;
+width: 152px;
+height: 24px;
+left: 743px;
+top: 417px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 130px;
+height: 24px;
+left: 765px;
+top: 417px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Acima de R$300 */
+
+position: absolute;
+width: 110px;
+height: 16px;
+left: 775px;
+top: 420px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 43 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 743px;
+top: 421px;
+
+background: url(image.png), url(image.png);
+
+
+/* Preço */
+
+position: absolute;
+width: 66px;
+height: 22px;
+left: calc(50% - 66px/2 + 190px);
+top: 255px;
+
+font-family: 'Orelega One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FEF4EE;
+
+
+
+/* Culinarias */
+
+position: absolute;
+width: 175px;
+height: 218px;
+left: 200px;
+top: 255px;
+
+
+
+/* Brasileira */
+
+position: absolute;
+width: 161px;
+height: 24px;
+left: 200px;
+top: 449px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: 221px;
+top: 449px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Brasileira */
+
+position: absolute;
+width: 108px;
+height: 20px;
+left: 237px;
+top: 452px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 36 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 200px;
+top: 454px;
+
+background: url(image.png), url(image.png);
+
+
+/* Mexicana */
+
+position: absolute;
+width: 161px;
+height: 24px;
+left: 200px;
+top: 417px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: 221px;
+top: 417px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Mexicana */
+
+position: absolute;
+width: 79.46px;
+height: 17.36px;
+left: 252.6px;
+top: 421.4px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 35 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 200px;
+top: 421px;
+
+background: url(image.png), url(image.png);
+
+
+/* Portuguesa */
+
+position: absolute;
+width: 161px;
+height: 24px;
+left: 200px;
+top: 385px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: 221px;
+top: 385px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Portuguesa */
+
+position: absolute;
+width: 100.16px;
+height: 16.9px;
+left: 241px;
+top: 390px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 34 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 200px;
+top: 390px;
+
+background: url(image.png), url(image.png);
+
+
+/* Chinesa */
+
+position: absolute;
+width: 161px;
+height: 24px;
+left: 200px;
+top: 353px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: 221px;
+top: 353px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Chinesa */
+
+position: absolute;
+width: 79.46px;
+height: 17.36px;
+left: 252px;
+top: 357px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 33 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 200px;
+top: 357px;
+
+background: url(image.png), url(image.png);
+
+
+/* japonesa */
+
+position: absolute;
+width: 161px;
+height: 24px;
+left: 200px;
+top: 321px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: 221px;
+top: 321px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Japonesa */
+
+position: absolute;
+width: 79.46px;
+height: 17.36px;
+left: 251px;
+top: 323px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 32 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 200px;
+top: 324px;
+
+background: url(image.png), url(image.png);
+
+
+/* italiana */
+
+position: absolute;
+width: 161px;
+height: 24px;
+left: 200px;
+top: 289px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: 221px;
+top: 289px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Italiana */
+
+position: absolute;
+width: 79.46px;
+height: 17.36px;
+left: 251px;
+top: 293px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 32 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 200px;
+top: 294px;
+
+background: url(image.png), url(image.png);
+
+
+/* Tipos de Culinárias */
+
+position: absolute;
+width: 173px;
+height: 25px;
+left: calc(50% - 173px/2 - 351.5px);
+top: 255px;
+
+font-family: 'Orelega One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+text-align: center;
+
+color: #FEF4EE;
+
+
+
+/* Eventos */
+
+position: absolute;
+width: 177px;
+height: 154px;
+left: 386px;
+top: 255px;
+
+
+
+/* Aniiversário */
+
+position: absolute;
+width: 170.84px;
+height: 24px;
+left: 389px;
+top: 289px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 150px;
+height: 24px;
+left: 409.84px;
+top: 289px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Aniversário */
+
+position: absolute;
+width: 87.64px;
+height: 17.33px;
+left: calc(50% - 87.64px/2 - 156.27px);
+top: calc(50% - 17.33px/2 - 59.33px);
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 37 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 389px;
+top: 293px;
+
+background: url(image.png), url(image.png);
+
+
+/* Reuniões */
+
+position: absolute;
+width: 171px;
+height: 24px;
+left: 389px;
+top: 321px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 150px;
+height: 24px;
+left: 410px;
+top: 321px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Reuniões */
+
+position: absolute;
+width: 61.88px;
+height: 13.35px;
+left: 454px;
+top: 325px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 38 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 389px;
+top: 325px;
+
+background: url(image.png), url(image.png);
+
+
+/* Dia dos Namorados */
+
+position: absolute;
+width: 174px;
+height: 24px;
+left: 389px;
+top: 353px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 150px;
+height: 24px;
+left: 410px;
+top: 353px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Dia dos Namorados */
+
+position: absolute;
+width: 152px;
+height: 13px;
+left: 411px;
+top: 357px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 39 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 389px;
+top: 357px;
+
+background: url(image.png), url(image.png);
+
+
+/* Musica ao vivo */
+
+position: absolute;
+width: 174px;
+height: 24px;
+left: 386px;
+top: 385px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 150px;
+height: 24px;
+left: 410px;
+top: 385px;
+
+background: #FCE7D8;
+border-radius: 10px;
+
+
+/* Música ao Vivo */
+
+position: absolute;
+width: 100px;
+height: 16px;
+left: 430.84px;
+top: 389px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+color: #EC6F40;
+
+
+
+/* image 40 */
+
+position: absolute;
+width: 14.82px;
+height: 15px;
+left: 386px;
+top: 389px;
+
+background: url(image.png), url(image.png);
+
+
+/* Eventos */
+
+position: absolute;
+width: 72px;
+height: 22px;
+left: 449px;
+top: 255px;
+
+font-family: 'Orelega One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FEF4EE;
+
+
+
+/* Filtragem de busca */
+
+position: absolute;
+width: 755px;
+height: 31px;
+left: calc(50% - 755px/2 - 0.5px);
+top: 202px;
+
+font-family: 'Orelega One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 44px;
+text-align: center;
+
+color: #FEF4EE;
+
+
+
+/* Pesquisa */
+
+position: absolute;
+width: 623px;
+height: 26px;
+left: calc(50% - 623px/2 - 0.5px);
+top: 157px;
+
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 623px;
+height: 26px;
+left: 328px;
+top: 157px;
+
+background: #FEF4EE;
+border-radius: 50px;
+
+
+/* image 1 */
+
+position: absolute;
+left: 71.72%;
+right: 26.64%;
+top: 22.22%;
+bottom: 75%;
+
+background: url(image);
+
+
+/* Header */
+
+position: absolute;
+width: 1155px;
+height: 56.01px;
+left: 45px;
+top: 13px;
+
+
+
+/* Gourmetize */
+
+position: absolute;
+width: 301px;
+height: 40px;
+left: 45px;
+top: 21px;
+
+font-family: 'Orelega One';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 52px;
+
+color: #B52B19;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* login */
+
+position: absolute;
+width: 100px;
+height: 34px;
+left: 1100px;
+top: 33px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 100px;
+height: 34px;
+left: 1100px;
+top: 33px;
+
+background: #B52B19;
+border-radius: 20px;
+
+
+/* Login */
+
+position: absolute;
+width: 56px;
+height: 24px;
+left: 1121.5px;
+top: 35.5px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #FEF4EE;
+
+
+
+/* Início Restaurantes Pratos Avaliações Cupons */
+
+position: absolute;
+visibility: hidden;
+width: 511px;
+height: 24px;
+left: 340px;
+top: 38px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-decoration-line: underline;
+
+color: #B52B19;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 56.01px;
+height: 0px;
+left: 323px;
+top: 69.01px;
+
+border: 1px solid #B52B19;
+transform: rotate(-90deg);
+
+
+/* Início Restaurantes Pratos Suporte Cupons */
+
+position: absolute;
+width: 479px;
+height: 24px;
+left: 346px;
+top: 38px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-decoration-line: underline;
+
+color: #B52B19;
+
+
+
+/* SUPORTE */
+
+position: absolute;
+width: 80px;
+height: 80px;
+left: 1165px;
+top: 604px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 80px;
+height: 80px;
+left: 1165px;
+top: 604px;
+
+background: #B52B19;
+border: 1px solid rgba(181, 43, 25, 0.84);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.3);
+
+
+/* image 55 */
+
+position: absolute;
+width: 70px;
+height: 58.68px;
+left: calc(50% - 70px/2 + 565px);
+top: calc(50% - 58.68px/2 + 284.34px);
+
+background: url(image.png);

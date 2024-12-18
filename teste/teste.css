@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.itens-menu {
+    list-style: none;
+    line-height: 20px;
+}
